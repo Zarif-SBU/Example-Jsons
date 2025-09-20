@@ -1,0 +1,704 @@
+[{
+  "_id": {
+    "$oid": "675e2403efbc0cf07f2db4ed"
+  },
+  "state": "Louisiana",
+  "summary": {
+    "TOT_POP": 4657757,
+    "WHITE_POP": 2657652,
+    "BLACK_POP": 1464023,
+    "ASIAN_POP": 86438,
+    "NATIVE_POP": 31657,
+    "PACIFIC_POP": 1911,
+    "OTHER_POP": 416076,
+    "percent_white": 57.06,
+    "percent_black": 31.43,
+    "percent_asian": 1.89,
+    "percent_native": 0.68,
+    "percent_pacific": 0.04,
+    "percent_other": 8.9,
+    "AVG_INC": 68669,
+    "percent_poverty": 18.6,
+    "total_precincts": 3753,
+    "rural_precincts": 2596,
+    "suburban_precincts": 1094,
+    "urban_precincts": 63,
+    "percent_rural": 69.17,
+    "percent_suburban": 29.15,
+    "percent_urban": 1.68,
+    "low_inc_precincts": 1329,
+    "mid_inc_precincts": 2087,
+    "high_inc_precincts": 337,
+    "precincts_in_poverty": 78,
+    "precincts_in_poverty_percent": 2.08,
+    "percent_democratic_votes": 40.54,
+    "percent_republican_votes": 59.46,
+    "democratic_districts": 1,
+    "republican_districts": 5,
+    "party_control_redistricting": "Republican",
+    "winning_party": "Republican",
+    "drawing_process": "https://redistricting.lls.edu/state/louisiana/?cycle=2010&level=Congress&startdate=2011-08-01",
+    "income_data": {
+      "Louisiana": [
+        {
+          "bucket": "< $10,000",
+          "households": 155441,
+          "share": 0.08872426
+        },
+        {
+          "bucket": "$10,000-$14,999",
+          "households": 96888,
+          "share": 0.055302759
+        },
+        {
+          "bucket": "$15,000-$19,999",
+          "households": 99022,
+          "share": 0.056520826
+        },
+        {
+          "bucket": "$20,000-$24,999",
+          "households": 114060,
+          "share": 0.065104375
+        },
+        {
+          "bucket": "$25,000-$29,999",
+          "households": 94619,
+          "share": 0.054007635
+        },
+        {
+          "bucket": "$30,000-$34,999",
+          "households": 84128,
+          "share": 0.048019471
+        },
+        {
+          "bucket": "$35,000-$39,999",
+          "households": 74276,
+          "share": 0.042396042
+        },
+        {
+          "bucket": "$40,000-$44,999",
+          "households": 75120,
+          "share": 0.042877789
+        },
+        {
+          "bucket": "$45,000-$49,999",
+          "households": 69140,
+          "share": 0.039464461
+        },
+        {
+          "bucket": "$50,000-$59,999",
+          "households": 133413,
+          "share": 0.076150885
+        },
+        {
+          "bucket": "$60,000-$74,999",
+          "households": 151853,
+          "share": 0.086676264
+        },
+        {
+          "bucket": "$75,000-$99,999",
+          "households": 199702,
+          "share": 0.113988023
+        },
+        {
+          "bucket": "$100,000-$124,999",
+          "households": 138850,
+          "share": 0.079254274
+        },
+        {
+          "bucket": "$125,000-$149,999",
+          "households": 88853,
+          "share": 0.050716456
+        },
+        {
+          "bucket": "$150,000-$199,999",
+          "households": 93472,
+          "share": 0.053352938
+        },
+        {
+          "bucket": "$200,000+",
+          "households": 83119,
+          "share": 0.047443543
+        }
+      ],
+      "United States": [
+        {
+          "bucket": "< $10,000",
+          "households": 7145751,
+          "share": 0.058402163
+        },
+        {
+          "bucket": "$10,000-$14,999",
+          "households": 5020097,
+          "share": 0.04102921
+        },
+        {
+          "bucket": "$15,000-$19,999",
+          "households": 5030224,
+          "share": 0.041111978
+        },
+        {
+          "bucket": "$20,000-$24,999",
+          "households": 5329476,
+          "share": 0.043557762
+        },
+        {
+          "bucket": "$25,000-$29,999",
+          "households": 5187269,
+          "share": 0.042395506
+        },
+        {
+          "bucket": "$30,000-$34,999",
+          "households": 5382215,
+          "share": 0.043988798
+        },
+        {
+          "bucket": "$35,000-$39,999",
+          "households": 4960174,
+          "share": 0.04053946
+        },
+        {
+          "bucket": "$40,000-$44,999",
+          "households": 5128434,
+          "share": 0.041914648
+        },
+        {
+          "bucket": "$45,000-$49,999",
+          "households": 4601774,
+          "share": 0.03761026
+        },
+        {
+          "bucket": "$50,000-$59,999",
+          "households": 9122890,
+          "share": 0.074561303
+        },
+        {
+          "bucket": "$60,000-$74,999",
+          "households": 11911889,
+          "share": 0.097355768
+        },
+        {
+          "bucket": "$75,000-$99,999",
+          "households": 15613243,
+          "share": 0.1276069033630953
+        },
+        {
+          "bucket": "$100,000-$124,999",
+          "households": 11455250,
+          "share": 0.093623662
+        },
+        {
+          "bucket": "$125,000-$149,999",
+          "households": 7673688,
+          "share": 0.062716987
+        },
+        {
+          "bucket": "$150,000-$199,999",
+          "households": 8688154,
+          "share": 0.071008209
+        },
+        {
+          "bucket": "$200,000+",
+          "households": 10103691,
+          "share": 0.082577381
+        }
+      ],
+      "District 1": [
+        {
+          "bucket": "< $10,000",
+          "households": 18759,
+          "share": 0.061803194
+        },
+        {
+          "bucket": "$10,000-$14,999",
+          "households": 12159,
+          "share": 0.040058907
+        },
+        {
+          "bucket": "$15,000-$19,999",
+          "households": 13799,
+          "share": 0.045462033
+        },
+        {
+          "bucket": "$20,000-$24,999",
+          "households": 16957,
+          "share": 0.055866345
+        },
+        {
+          "bucket": "$25,000-$29,999",
+          "households": 14274,
+          "share": 0.047026963
+        },
+        {
+          "bucket": "$30,000-$34,999",
+          "households": 12914,
+          "share": 0.042546322
+        },
+        {
+          "bucket": "$35,000-$39,999",
+          "households": 12446,
+          "share": 0.041004454
+        },
+        {
+          "bucket": "$40,000-$44,999",
+          "households": 11256,
+          "share": 0.037083893
+        },
+        {
+          "bucket": "$45,000-$49,999",
+          "households": 11005,
+          "share": 0.036256952
+        },
+        {
+          "bucket": "$50,000-$59,999",
+          "households": 23331,
+          "share": 0.076866055
+        },
+        {
+          "bucket": "$60,000-$74,999",
+          "households": 29089,
+          "share": 0.095836298
+        },
+        {
+          "bucket": "$75,000-$99,999",
+          "households": 39794,
+          "share": 0.1311048733560001
+        },
+        {
+          "bucket": "$100,000-$124,999",
+          "households": 26909,
+          "share": 0.088654095
+        },
+        {
+          "bucket": "$125,000-$149,999",
+          "households": 18222,
+          "share": 0.060034
+        },
+        {
+          "bucket": "$150,000-$199,999",
+          "households": 21684,
+          "share": 0.071439867
+        },
+        {
+          "bucket": "$200,000+",
+          "households": 20930,
+          "share": 0.068955747
+        }
+      ],
+      "District 2": [
+        {
+          "bucket": "< $10,000",
+          "households": 34705,
+          "share": 0.1170102293339806
+        },
+        {
+          "bucket": "$10,000-$14,999",
+          "households": 20393,
+          "share": 0.068756364
+        },
+        {
+          "bucket": "$15,000-$19,999",
+          "households": 20057,
+          "share": 0.067623517
+        },
+        {
+          "bucket": "$20,000-$24,999",
+          "households": 21276,
+          "share": 0.071733457
+        },
+        {
+          "bucket": "$25,000-$29,999",
+          "households": 18438,
+          "share": 0.062164951
+        },
+        {
+          "bucket": "$30,000-$34,999",
+          "households": 15268,
+          "share": 0.051477083
+        },
+        {
+          "bucket": "$35,000-$39,999",
+          "households": 11448,
+          "share": 0.038597698
+        },
+        {
+          "bucket": "$40,000-$44,999",
+          "households": 12719,
+          "share": 0.042882959
+        },
+        {
+          "bucket": "$45,000-$49,999",
+          "households": 11304,
+          "share": 0.038112192
+        },
+        {
+          "bucket": "$50,000-$59,999",
+          "households": 21825,
+          "share": 0.073584448
+        },
+        {
+          "bucket": "$60,000-$74,999",
+          "households": 25284,
+          "share": 0.085246698
+        },
+        {
+          "bucket": "$75,000-$99,999",
+          "households": 29381,
+          "share": 0.099060007
+        },
+        {
+          "bucket": "$100,000-$124,999",
+          "households": 18896,
+          "share": 0.063709128
+        },
+        {
+          "bucket": "$125,000-$149,999",
+          "households": 12146,
+          "share": 0.040951052
+        },
+        {
+          "bucket": "$150,000-$199,999",
+          "households": 12834,
+          "share": 0.04327069
+        },
+        {
+          "bucket": "$200,000+",
+          "households": 10624,
+          "share": 0.035819527
+        }
+      ],
+      "District 3": [
+        {
+          "bucket": "< $10,000",
+          "households": 24774,
+          "share": 0.083234221
+        },
+        {
+          "bucket": "$10,000-$14,999",
+          "households": 14680,
+          "share": 0.049320996
+        },
+        {
+          "bucket": "$15,000-$19,999",
+          "households": 15648,
+          "share": 0.052573226
+        },
+        {
+          "bucket": "$20,000-$24,999",
+          "households": 19567,
+          "share": 0.06574005
+        },
+        {
+          "bucket": "$25,000-$29,999",
+          "households": 16566,
+          "share": 0.055657468
+        },
+        {
+          "bucket": "$30,000-$34,999",
+          "households": 15090,
+          "share": 0.05069849
+        },
+        {
+          "bucket": "$35,000-$39,999",
+          "households": 12651,
+          "share": 0.042504082
+        },
+        {
+          "bucket": "$40,000-$44,999",
+          "households": 13731,
+          "share": 0.046132602
+        },
+        {
+          "bucket": "$45,000-$49,999",
+          "households": 11601,
+          "share": 0.038976354
+        },
+        {
+          "bucket": "$50,000-$59,999",
+          "households": 23180,
+          "share": 0.077878794
+        },
+        {
+          "bucket": "$60,000-$74,999",
+          "households": 26343,
+          "share": 0.088505654
+        },
+        {
+          "bucket": "$75,000-$99,999",
+          "households": 36202,
+          "share": 0.1216293399453034
+        },
+        {
+          "bucket": "$100,000-$124,999",
+          "households": 23813,
+          "share": 0.08000551
+        },
+        {
+          "bucket": "$125,000-$149,999",
+          "households": 15397,
+          "share": 0.051729931
+        },
+        {
+          "bucket": "$150,000-$199,999",
+          "households": 15250,
+          "share": 0.051236049
+        },
+        {
+          "bucket": "$200,000+",
+          "households": 13149,
+          "share": 0.044177233
+        }
+      ],
+      "District 4": [
+        {
+          "bucket": "< $10,000",
+          "households": 27365,
+          "share": 0.095579555
+        },
+        {
+          "bucket": "$10,000-$14,999",
+          "households": 20947,
+          "share": 0.073162979
+        },
+        {
+          "bucket": "$15,000-$19,999",
+          "households": 20553,
+          "share": 0.071786829
+        },
+        {
+          "bucket": "$20,000-$24,999",
+          "households": 22416,
+          "share": 0.078293853
+        },
+        {
+          "bucket": "$25,000-$29,999",
+          "households": 16993,
+          "share": 0.059352581
+        },
+        {
+          "bucket": "$30,000-$34,999",
+          "households": 14963,
+          "share": 0.052262265
+        },
+        {
+          "bucket": "$35,000-$39,999",
+          "households": 13034,
+          "share": 0.045524718
+        },
+        {
+          "bucket": "$40,000-$44,999",
+          "households": 12970,
+          "share": 0.045301181
+        },
+        {
+          "bucket": "$45,000-$49,999",
+          "households": 11694,
+          "share": 0.040844411
+        },
+        {
+          "bucket": "$50,000-$59,999",
+          "households": 21883,
+          "share": 0.076432209
+        },
+        {
+          "bucket": "$60,000-$74,999",
+          "households": 22648,
+          "share": 0.079104175
+        },
+        {
+          "bucket": "$75,000-$99,999",
+          "households": 28996,
+          "share": 0.101276257
+        },
+        {
+          "bucket": "$100,000-$124,999",
+          "households": 20103,
+          "share": 0.070215085
+        },
+        {
+          "bucket": "$125,000-$149,999",
+          "households": 11208,
+          "share": 0.039146927
+        },
+        {
+          "bucket": "$150,000-$199,999",
+          "households": 10579,
+          "share": 0.036949977
+        },
+        {
+          "bucket": "$200,000+",
+          "households": 9954,
+          "share": 0.034766998
+        }
+      ],
+      "District 5": [
+        {
+          "bucket": "< $10,000",
+          "households": 30440,
+          "share": 0.1116801925419351
+        },
+        {
+          "bucket": "$10,000-$14,999",
+          "households": 18900,
+          "share": 0.069341512
+        },
+        {
+          "bucket": "$15,000-$19,999",
+          "households": 18304,
+          "share": 0.06715487
+        },
+        {
+          "bucket": "$20,000-$24,999",
+          "households": 20224,
+          "share": 0.074199087
+        },
+        {
+          "bucket": "$25,000-$29,999",
+          "households": 15432,
+          "share": 0.056617895
+        },
+        {
+          "bucket": "$30,000-$34,999",
+          "households": 13926,
+          "share": 0.051092587
+        },
+        {
+          "bucket": "$35,000-$39,999",
+          "households": 12890,
+          "share": 0.047291645
+        },
+        {
+          "bucket": "$40,000-$44,999",
+          "households": 12731,
+          "share": 0.046708296
+        },
+        {
+          "bucket": "$45,000-$49,999",
+          "households": 11914,
+          "share": 0.043710835
+        },
+        {
+          "bucket": "$50,000-$59,999",
+          "households": 20343,
+          "share": 0.074635682
+        },
+        {
+          "bucket": "$60,000-$74,999",
+          "households": 22232,
+          "share": 0.081566164
+        },
+        {
+          "bucket": "$75,000-$99,999",
+          "households": 26457,
+          "share": 0.097067111
+        },
+        {
+          "bucket": "$100,000-$124,999",
+          "households": 18390,
+          "share": 0.067470392
+        },
+        {
+          "bucket": "$125,000-$149,999",
+          "households": 11644,
+          "share": 0.042720242
+        },
+        {
+          "bucket": "$150,000-$199,999",
+          "households": 10492,
+          "share": 0.038493712
+        },
+        {
+          "bucket": "$200,000+",
+          "households": 8245,
+          "share": 0.030249776
+        }
+      ],
+      "District 6": [
+        {
+          "bucket": "< $10,000",
+          "households": 19398,
+          "share": 0.065685126
+        },
+        {
+          "bucket": "$10,000-$14,999",
+          "households": 9809,
+          "share": 0.033215043
+        },
+        {
+          "bucket": "$15,000-$19,999",
+          "households": 10661,
+          "share": 0.036100068
+        },
+        {
+          "bucket": "$20,000-$24,999",
+          "households": 13620,
+          "share": 0.046119776
+        },
+        {
+          "bucket": "$25,000-$29,999",
+          "households": 12916,
+          "share": 0.043735905
+        },
+        {
+          "bucket": "$30,000-$34,999",
+          "households": 11967,
+          "share": 0.04052242
+        },
+        {
+          "bucket": "$35,000-$39,999",
+          "households": 11807,
+          "share": 0.039980631
+        },
+        {
+          "bucket": "$40,000-$44,999",
+          "households": 11713,
+          "share": 0.03966233
+        },
+        {
+          "bucket": "$45,000-$49,999",
+          "households": 11622,
+          "share": 0.039354188
+        },
+        {
+          "bucket": "$50,000-$59,999",
+          "households": 22851,
+          "share": 0.077377607
+        },
+        {
+          "bucket": "$60,000-$74,999",
+          "households": 26257,
+          "share": 0.088910937
+        },
+        {
+          "bucket": "$75,000-$99,999",
+          "households": 38872,
+          "share": 0.131627601
+        },
+        {
+          "bucket": "$100,000-$124,999",
+          "households": 30739,
+          "share": 0.104087797
+        },
+        {
+          "bucket": "$125,000-$149,999",
+          "households": 20236,
+          "share": 0.068522745
+        },
+        {
+          "bucket": "$150,000-$199,999",
+          "households": 22633,
+          "share": 0.076639419
+        },
+        {
+          "bucket": "$200,000+",
+          "households": 20217,
+          "share": 0.068458408
+        }
+      ]
+    },
+    "population_density": 106.9,
+    "median_inc": 49973,
+    "G20PRERTRU": 1255776,
+    "G20PREDBID": 856034
+  }
+}]

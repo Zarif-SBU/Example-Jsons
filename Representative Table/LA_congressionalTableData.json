@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "675d056881e07816ef54d38c"
+  },
+  "state": "Louisiana",
+  "districts": {
+    "districtthree": {
+      "Representative": "Clay Higgins",
+      "Representative_race": "White",
+      "DISTRICTNUM": 3,
+      "Poverty": 18.5,
+      "AVG_INC": 67369,
+      "rural_precincts": 73.43,
+      "suburban_precincts": 26.57,
+      "urban_precincts": 0,
+      "democratic_votes": 30.84,
+      "republican_votes": 69.16,
+      "winning_party": "Republican"
+    },
+    "districtsix": {
+      "Representative": "Garret Graves",
+      "Representative_race": "White",
+      "AVG_INC": 82913,
+      "DISTRICTNUM": 6,
+      "Poverty": 12.6,
+      "rural_precincts": 70.98,
+      "suburban_precincts": 29.02,
+      "urban_precincts": 0,
+      "democratic_votes": 32.8,
+      "republican_votes": 67.2,
+      "winning_party": "Republican"
+    },
+    "districtone": {
+      "Representative": "Steve Scalise",
+      "Representative_race": "White",
+      "AVG_INC": 82606,
+      "DISTRICTNUM": 1,
+      "Poverty": 13.3,
+      "rural_precincts": 48.22,
+      "suburban_precincts": 49.16,
+      "urban_precincts": 2.63,
+      "democratic_votes": 29.86,
+      "republican_votes": 70.14,
+      "winning_party": "Republican"
+    },
+    "districtfour": {
+      "Representative": "Mike Johnson",
+      "Representative_race": "White",
+      "AVG_INC": 57830,
+      "DISTRICTNUM": 4,
+      "Poverty": 22.1,
+      "rural_precincts": 86.31,
+      "suburban_precincts": 13.69,
+      "urban_precincts": 0,
+      "democratic_votes": 37.77,
+      "republican_votes": 62.23,
+      "winning_party": "Republican"
+    },
+    "districtfive": {
+      "Representative": "Luke Letlow",
+      "Representative_race": "White",
+      "AVG_INC": 58126,
+      "DISTRICTNUM": 5,
+      "Poverty": 23.1,
+      "rural_precincts": 93.52,
+      "suburban_precincts": 6.24,
+      "urban_precincts": 0.24,
+      "democratic_votes": 34.94,
+      "republican_votes": 65.06,
+      "winning_party": "Republican"
+    },
+    "districttwo": {
+      "Representative": "Troy Carter",
+      "Representative_race": "Black",
+      "AVG_INC": 63187,
+      "DISTRICTNUM": 2,
+      "Poverty": 22.6,
+      "rural_precincts": 27.88,
+      "suburban_precincts": 64.58,
+      "urban_precincts": 7.53,
+      "democratic_votes": 76.84,
+      "republican_votes": 23.16,
+      "winning_party": "Democratic"
+    }
+  }
+}]
